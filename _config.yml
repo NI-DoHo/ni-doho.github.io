@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+
+url : "https://nimoomin.github.io"
+baseurl : "/blog"
